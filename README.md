@@ -1,3 +1,3 @@
-🧪 Science project inspired by: <a href="https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p017/astronomy/sunspot-cycles">Link</a>
+<h1>Do solar cycles emerge faster than they decay?</h1>
 
-Do solar cycles ramp up to solar maxima faster than they decay?
+🧪 Science project inspired by: <a href="https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p017/astronomy/sunspot-cycles">Link</a>
