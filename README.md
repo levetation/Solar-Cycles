@@ -5,7 +5,7 @@ Purpose
 
 The purpose of this project is to examine the onset and decay times of solar cycles and compare them statistically.
 
-<img src="Figure1.jpg" alt="Plot of sunspot number time-series data showing all 24 solar cycles">
+<img src="Figure1JPG.jpg" alt="Plot of sunspot number time-series data showing all 24 solar cycles">
 
 <h2>Data Sources</h2>
 
