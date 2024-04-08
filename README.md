@@ -5,6 +5,8 @@ Purpose
 
 The purpose of this project is to examine the onset and decay times of solar cycles and compare them statistically.
 
+<img src="Figure1.png" alt="Plot of sunspot number time-series data showing all 24 solar cycles">
+
 <h2>Data Sources</h2>
 
 - Observed Solar Cycle Values: Data sourced from <a href="https://www.swpc.noaa.gov/products/solar-cycle-progression">SWPC</a>, providing observed solar cycle indices including sunspot numbers.
