@@ -1,7 +1,8 @@
 <h1>☀️ Do solar cycles emerge faster than they decay?</h1>
 
 This repository contains Python code for analyzing solar cycle data, focusing on onset and decay times of solar cycles.
-Purpose
+
+<h2>Purpose</h2>
 
 The purpose of this project is to examine the onset and decay times of solar cycles and compare them statistically.
 
